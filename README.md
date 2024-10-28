@@ -29,7 +29,7 @@ I'm a full-stack developer working on a variety of projects, constantly improvin
 ---
 
 ### 📈 GitHub Stats
-![Vrishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrishali-jadhav&show_icons=true&hide=prs&count_private=true&title_color=0044ff&text_color=333&icon_color=0044ff&bg_color=ffffff&hide_border=true)
+![Vrishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vrishali34&show_icons=true&hide=prs&count_private=true&title_color=0044ff&text_color=333&icon_color=0044ff&bg_color=ffffff&hide_border=true)
 
 ---
 
