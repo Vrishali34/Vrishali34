@@ -24,7 +24,7 @@ I'm a full-stack developer working on a variety of projects, constantly improvin
 [![Gmail Badge](https://img.shields.io/badge/-jvrishali1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jvrishali1@gmail.com)](mailto:jvrishali1@gmail.com)
 
 ### ⚡ Fun Fact
-- Besides coding, I’m passionate about fitness, love spending time at the gym 💪, and enjoy cooking delicious meals 🍲!
+- Besides coding, I enjoy cooking and experimenting with new recipes 🍲!
 
 ---
 
