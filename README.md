@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vrishali Jadhav
+# Hi there! 👋 I'm Vrishali 
 
 I'm a full-stack developer working on a variety of projects, constantly improving my skills across multiple technologies. Here’s a little more about me:
 
