@@ -7,10 +7,12 @@
 <h1 align="center">Hi there 👋, I'm Vrishali Jadhav</h1>
 <h3 align="center">A Final Year CSE Student | Full-Stack Developer | Java DSA Enthusiast</h3>
 
-<!-- LEFT ALIGN PROFILE VIEW + TROPHY BADGE -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Vrishali34&label=Profile%20views&color=0e75b6&style=flat" alt="Vrishali34 profile views" />
-</p>
+---
+
+### 🏆 Profile Views  
+![Profile views](https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen)
+
+---
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -80,7 +82,7 @@
 
 ---
 
-### 💡 Quote of the Day
+### 💡 Quote 
 
 <p align="center">
   <img src="https://img.shields.io/badge/💬%20Quote-Consistency%20is%20the%20key-blueviolet?style=for-the-badge" />
