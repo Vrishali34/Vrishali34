@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Vrishali Jadhav</h1>
+<h1 align="center">Hi there 👋, I'm Vrishali </h1>
 <h3 align="center">A Final Year CSE Student | Full-Stack Developer | Java DSA Enthusiast</h3>
 
 ---
@@ -81,7 +81,8 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Github Stats </b> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vrishali34&show_icons=true&count_private=true&hide=prs&title_color=0044ff&text_color=333&icon_color=0044ff&bg_color=ffffff&hide_border=true" />
