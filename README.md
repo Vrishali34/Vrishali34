@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Vrishali Jadhav</h1>
+<h1 align="center">Hi there 👋, I'm Vrishali </h1>
 <h3 align="center">A Final Year CSE Student | Full-Stack Developer | Java DSA Enthusiast</h3>
 
 ---
