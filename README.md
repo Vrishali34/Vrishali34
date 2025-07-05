@@ -13,7 +13,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen)
 
 ---
-### 🏆 Profile Trophy  
+### 🏆  Trophies  
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Vrishali34&theme=flat&row=1&margin-w=10" alt="GitHub Profile Trophy" />
