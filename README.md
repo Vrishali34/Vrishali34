@@ -46,10 +46,7 @@
 ### 📫 Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-jvrishali1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jvrishali1@gmail.com)](mailto:jvrishali1@gmail.com)
 
-### ⚡ Fun Fact
-- I enjoy cooking and love experimenting with new recipes 🍲!
 
----
 
 
 
