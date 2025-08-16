@@ -7,96 +7,101 @@
 <h1 align="center">Hi there 👋, I'm Vrishali </h1>
 <h3 align="center">A Final Year CSE Student | Full-Stack Developer | Java DSA Enthusiast</h3>
 
----
-
-### 🏆 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen)
-
----
-### 🏆  Trophies  
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vrishali34&theme=flat&row=1&margin-w=10" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
----
-
-### 🔭 Currently
-- Working on full-stack projects to sharpen my development skills.
-- Preparing for interviews with focused **DSA in Java**.
-
-### 🌱 Learning & Exploring
-- Diving deep into **backend development** using **Java** and **Spring Boot**.
-- Enhancing frontend skills in **HTML**, **CSS**, **JavaScript**, **React**.
-
-### 👯 Looking to Collaborate On
-- Web development projects involving **JavaScript**, **Java**, or **Python**.
-- DSA problem-solving sessions and open-source contributions.
-
-### 💬 Ask Me About
-- Java and Python programming fundamentals.
-- Full-stack workflows and API integration.
-- Problem-solving approaches for coding interviews.
-
-### 🏆 Coding Highlights
-- 5 ⭐ on HackerRank in **Problem Solving**
-- 2 ⭐ on CodeChef (**1450 max**)
-
-### 📫 Reach Me
-[![Gmail Badge](https://img.shields.io/badge/-jvrishali1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jvrishali1@gmail.com)](mailto:jvrishali1@gmail.com)
-
-
-
-
-
-
-## 🚀 Languages and Tools
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24px" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24px" />
+  <img src="https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen" alt="profile views" />
 </p>
-
 
 ---
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Github Stats </b> 
-
+# 💫 About Me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrishali34&show_icons=true&count_private=true&hide=prs&title_color=0044ff&text_color=333&icon_color=0044ff&bg_color=ffffff&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishali34&layout=compact&title_color=0044ff&text_color=333&bg_color=ffffff&hide_border=true" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vrishali34&theme=default&hide_border=true" />
-  </a>
+<div align="center">
+
+### 🔭 Currently  
+ ✅Working on **Full-Stack Projects** to sharpen my development skills  
+ ✅Preparing for interviews with focused **DSA in Java**  
+
+### 🌱 Learning & Exploring  
+ ⭐Diving deep into **Backend Development** using **Java & Spring Boot**  
+ ⭐Enhancing **Frontend skills** in HTML, CSS, JavaScript, React  
+
+### 👯 Open to Collaborating On 
+ 📌Web development projects involving **JavaScript, Java, or Python**  
+ 📌**DSA problem-solving sessions** and **open-source contributions**  
+
+### 💬 Ask Me About  
+ ⚡️**Java and Python programming fundamentals**  
+ ⚡️**Full-Stack workflows & API integration**  
+ ⚡️**Problem-solving approaches** for coding interviews**
+
+</div>  
+
 </p>
 
 ---
 
-### 💡 Quote of the Day
+
+# 💻 Tech Stack:
+
+### Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frontend:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+### Backend & Cloud:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### Tools & Others:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+
+---
+
+# 🏆 Coding Highlights:
+- ⭐ 5 Star in **Problem Solving** on HackerRank  
+- ⭐ 2 Star on **CodeChef** (Max Rating: 1450)  
+- Solved **1000+ DSA problems** across multiple platforms  
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964b00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) 
+
+---
+
+# 💡 Quote of the Day
 
 <p align="center">
   <img src="https://img.shields.io/badge/💬%20Quote-Consistency%20is%20the%20key-blueviolet?style=for-the-badge" />
 </p>
 
 ---
+
+# 📊 GitHub Stats:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishali34&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrishali34&theme=nord&hide_border=true" />
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vrishali34&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Vrishali34&icon=6&color=0)](https://visitcount.itsvg.in)  
