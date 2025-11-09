@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vrishali </h1>
-<h3 align="center"> CSE Student | Full-Stack Developer | Java DSA Enthusiast</h3>
+<h3 align="center"> CSE Student | Full-Stack Developer | </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen" alt="profile views" />
@@ -19,10 +19,10 @@
 
 ### 🔭 Currently  
  ✅Working on **Full-Stack Projects** to sharpen my development skills  
- ✅Preparing for interviews with focused **DSA in Java**  
+ ✅Preparing for interviews with focused **DSA in CPP**  
 
 ### 🌱 Learning & Exploring  
- ⭐Diving deep into **Backend Development** using **Java & Spring Boot**  
+ ⭐Diving deep into **Full Stack Development** using 
  ⭐Enhancing **Frontend skills** in HTML, CSS, JavaScript, React  
 
 ### 👯 Open to Collaborating On 
@@ -30,7 +30,7 @@
  📌**DSA problem-solving sessions** and **open-source contributions**  
 
 ### 💬 Ask Me About  
- ⚡️**Java and Python programming fundamentals**  
+ ⚡️**Java and CPP programming fundamentals**  
  ⚡️**Full-Stack workflows & API integration**  
  ⚡️**Problem-solving approaches** for coding interviews**
 
