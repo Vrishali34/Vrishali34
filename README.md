@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vrishali </h1>
-<h3 align="center"> CSE Student | Full-Stack Developer | </h3>
+<h3 align="center"> CSE Student | Full-Stack Developer  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrishali-jadhav&color=brightgreen" alt="profile views" />
