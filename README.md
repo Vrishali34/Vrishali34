@@ -26,7 +26,7 @@
  ⭐Enhancing **Frontend skills** in HTML, CSS, JavaScript, React  
 
 ### 👯 Open to Collaborating On 
- 📌Web development projects involving **JavaScript, Java, or Python**  
+ 📌Web development projects involving **JavaScript, Java, React or Python**  
  📌**DSA problem-solving sessions** and **open-source contributions**  
 
 ### 💬 Ask Me About  
