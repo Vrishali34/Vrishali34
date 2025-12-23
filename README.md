@@ -22,7 +22,7 @@
  ✅Preparing for interviews with focused **DSA in CPP**  
 
 ### 🌱 Learning & Exploring  
- ⭐Diving deep into **Full Stack Development** using <br>
+ ⭐Diving deep into **Full Stack Development** <br>
  ⭐Enhancing **Frontend skills** in HTML, CSS, JavaScript, React  
 
 ### 👯 Open to Collaborating On 
