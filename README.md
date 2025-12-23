@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Vrishali34">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;DSA%20Enthusiast;Java%20and%20CPP%20Lover;Always%20Learning%20New%20Things...&center=true&width=500&height=75">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;DSA%20Enthusiast;Java%20,python%20and%20CPP%20Lover;Always%20Learning%20New%20Things...&center=true&width=500&height=75">
   </a>
 </p>
 
