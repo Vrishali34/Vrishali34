@@ -93,9 +93,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vrishali34&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4)  
 
----
 
 [![](https://visitcount.itsvg.in/api?id=Vrishali34&icon=6&color=0)](https://visitcount.itsvg.in)  
