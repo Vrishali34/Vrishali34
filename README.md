@@ -82,6 +82,23 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) 
 
 ---
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Github Stats </b> 
+ 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashantjagtap2909&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjagtap2909&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+ 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prashantjagtap2909" alt="GitHub Streak" /></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
 
 # 💡 Quote of the Day
 
