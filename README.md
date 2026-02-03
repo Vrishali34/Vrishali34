@@ -97,7 +97,6 @@
 
 
 
-
 # 💡 Quote of the Day
 
 <p align="center">
