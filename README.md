@@ -106,12 +106,11 @@ interests:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode%20%7C%201000%2B%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/VrishaliLeetcode/)
+[![LeetCode](https://img.shields.io/badge/LeetCode%20%7C%20500%2B%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/VrishaliLeetcode/)
 [![HackerRank](https://img.shields.io/badge/HackerRank%20%7C%205%20Star-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jvrishali1)
 [![CodeChef](https://img.shields.io/badge/CodeChef%20%7C%202%E2%98%85%20%7C%201450-%23964b00?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chef_vrishali)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
