@@ -111,7 +111,7 @@ interests:
 [![CodeChef](https://img.shields.io/badge/CodeChef%20%7C%202%E2%98%85%20%7C%201450-%23964b00?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chef_vrishali)
 
 </div>
----
+
 
 ## 📊 GitHub Stats
 
