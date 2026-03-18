@@ -163,6 +163,6 @@ interests:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0d0d1a&height=120&section=footer"/>
 
-*"Consistency is the key"*
+*Consistency is the key*
 
 </div>
