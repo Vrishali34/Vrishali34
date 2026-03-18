@@ -27,8 +27,8 @@
 
 ```yaml
 name    : Vrishali
-role    : Full-Stack Developer
-college : B.Tech Computer Engineering (2025 Graduate)
+role   : Full-Stack Developer
+education : B.Tech Computer Engineering (2025 Graduate)
 from    : India 
 
 currently:
