@@ -56,12 +56,25 @@ A REST API built like it had to go to production, not just pass a demo — becau
 
 ---
 
+### 🤖 [GitSpy](https://github.com/Vrishali34/gitspy) — AI Agent for GitHub Insights
+
+An agent that answers natural-language questions about any GitHub account or repo — built to understand how AI agents actually work under the hood, not just call an API and print the response.
+
+- **Agent loop:** the LLM (via Groq) decides which tool to call, Python executes the real GitHub API request, results feed back to the LLM, which responds in natural language — with full conversation memory for follow-ups
+- **Tools implemented:** repo stats (stars, issues, language), account-level aggregation (total stars, top repo, most-used language), and repo listing sorted by popularity
+- **Stack:** Python, Groq API (`gpt-oss-20b`) for function-calling, Flask backend with session memory, GitHub REST API
+
+`Python` `Groq` `Flask` `LLM Function-Calling`
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -74,8 +87,13 @@ A REST API built like it had to go to production, not just pass a demo — becau
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+**AI / LLM**
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LLM Function Calling](https://img.shields.io/badge/LLM%20Function%20Calling-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -94,16 +112,8 @@ A REST API built like it had to go to production, not just pass a demo — becau
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vrishali34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishali34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0&langs_count=6" />
-
-</div>
-
----
 
 ## 🏆 Problem Solving
 
@@ -113,20 +123,17 @@ I keep my fundamentals sharp alongside shipping projects — 500+ problems solve
 
 ## 🔗 Let's Connect
 
-<div align="center">
+<div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrishali34)
 
-<br/>
+</div>
+<div>
 
-> 💬 *Open to full-stack roles, internships, and interesting collaborations — reach out anytime.*
+
 
 </div>
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0d0d1a&height=100&section=footer"/>
-
-*Consistency is the key*
-
+   4 words I keep in mind (always)
+  <div align="center"> Consistency is the key 🏅</div>
 </div>
