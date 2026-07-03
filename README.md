@@ -19,7 +19,7 @@
 I like building things that actually work in production — secure, tested, well-documented.
 - 🎓 B.Tech Computer Engineering (2025 Graduate)
 - 📍 From India
-- 🚧 Currently: building full-stack projects, learning system design, open for opportunities
+- 🚧 Currently:  building full-stack projects, learning system design ,learning AI .....basically learning things and implementing them.
 - 💡 Interests: Web Development, API Design, Problem Solving, Open Source
 
 
